@@ -1,0 +1,11 @@
+C:\Users\mainp\RiderProjects\WSN Simulation attempt 2\WSN Simulation attempt 2\bin\Debug\WSN_Simulation_attempt_2.exe.config
+C:\Users\mainp\RiderProjects\WSN Simulation attempt 2\WSN Simulation attempt 2\bin\Debug\WSN_Simulation_attempt_2.exe
+C:\Users\mainp\RiderProjects\WSN Simulation attempt 2\WSN Simulation attempt 2\bin\Debug\WSN_Simulation_attempt_2.pdb
+C:\Users\mainp\RiderProjects\WSN Simulation attempt 2\WSN Simulation attempt 2\obj\Debug\WSN Simulation attempt 2.csproj.AssemblyReference.cache
+C:\Users\mainp\RiderProjects\WSN Simulation attempt 2\WSN Simulation attempt 2\obj\Debug\WSN Simulation attempt 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\mainp\RiderProjects\WSN Simulation attempt 2\WSN Simulation attempt 2\obj\Debug\WSN_Simulation_attempt_2.Properties.Resources.resources
+C:\Users\mainp\RiderProjects\WSN Simulation attempt 2\WSN Simulation attempt 2\obj\Debug\WSN Simulation attempt 2.csproj.GenerateResource.cache
+C:\Users\mainp\RiderProjects\WSN Simulation attempt 2\WSN Simulation attempt 2\obj\Debug\WSN Simulation attempt 2.csproj.CoreCompileInputs.cache
+C:\Users\mainp\RiderProjects\WSN Simulation attempt 2\WSN Simulation attempt 2\obj\Debug\WSN_Simulation_attempt_2.exe
+C:\Users\mainp\RiderProjects\WSN Simulation attempt 2\WSN Simulation attempt 2\obj\Debug\WSN_Simulation_attempt_2.pdb
+C:\Users\mainp\RiderProjects\WSN Simulation attempt 2\WSN Simulation attempt 2\obj\Debug\WSN_Simulation_attempt_2.Form1.resources
